@@ -1,0 +1,21 @@
+p {
+				font-size: 20px;
+				family-font: arial;
+				background: brown;
+				color: white;
+				margin: 5px;
+}
+h3 {
+				font-size: 25px;
+				margin: 50px;
+				color: white;	
+				background: blue;			
+}
+button {
+				color: white;
+				background: aqua;
+				font-size: 30;
+}
+h5 {
+				font-size: 20px;
+}
